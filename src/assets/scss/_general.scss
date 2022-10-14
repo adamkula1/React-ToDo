@@ -1,0 +1,19 @@
+body {
+  margin: 0 auto;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: bisque;
+}
+
+.wrap-box {
+  button {
+    border: 0;
+  }
+  .done {
+    border-radius: 0 5px 5px 0;
+  }
+
+  .delete {
+    border-radius: 5px 0 0 5px;
+  }
+}
